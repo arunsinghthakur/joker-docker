@@ -1,8 +1,0 @@
-com\joker\mapper\UserMapper.class
-com\joker\api\UserAPI.class
-com\joker\App.class
-com\joker\repository\UserRepository.class
-com\joker\api\JokerGreetAPI.class
-com\joker\domain\User.class
-com\joker\config\AppConfig.class
-com\joker\service\UserService.class
